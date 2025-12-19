@@ -1,0 +1,23 @@
+# video & audio outputs
+*.mp4
+*.wav
+*.srt
+
+# text files
+cuts.txt
+transcription_*.txt
+*_totranslate.txt
+
+# temp concat files
+part*.mp4
+list.txt
+
+# python
+__pycache__/
+*.pyc
+
+# notebooks
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
