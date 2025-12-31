@@ -15,6 +15,7 @@ list.txt
 # python
 __pycache__/
 *.pyc
+.venv
 
 # notebooks
 .ipynb_checkpoints/
